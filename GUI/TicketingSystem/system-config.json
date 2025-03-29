@@ -1,0 +1,8 @@
+{
+  "maxCapacity" : 20,
+  "totalTickets" : 15,
+  "vendorRate" : 1500,
+  "customerRate" : 1000,
+  "vendorCount" : 2,
+  "customerCount" : 1
+}
